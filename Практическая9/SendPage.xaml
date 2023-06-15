@@ -1,0 +1,63 @@
+﻿<Page x:Class="Практическая9.SendPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Практическая9"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="SendPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition Height="5*" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.3*" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="Кому" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <TextBox x:Name="ToTextBox" Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" />
+
+        <Label Grid.Row="1" Grid.Column="0" Content="Тема" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <TextBox x:Name="SubjectTextBox" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" />
+
+        <ToolBar Grid.Row="2" Grid.ColumnSpan="2">
+            <Button Command="ApplicationCommands.Cut" Content="✄" Padding="10" />
+            <Button Command="ApplicationCommands.Copy" Content="📑" Padding="10" />
+            <Button Command="ApplicationCommands.Paste" Content="📋" Padding="10" />
+            <Separator Margin="2,2,2,2" />
+            <Button Command="ApplicationCommands.Undo" Content="↶" Padding="10" />
+            <Button Command="ApplicationCommands.Redo" Content="↷" Padding="10" />
+            <Separator Margin="2,2,2,2" />
+            <Button Command="EditingCommands.ToggleBold" Content="B" Padding="10" />
+            <Button Command="EditingCommands.ToggleItalic" Content="I" Padding="10" />
+            <Button Command="EditingCommands.ToggleUnderline" Content="U" Padding="10" />
+            <Separator Margin="2,2,2,2" />
+            <Button Command="EditingCommands.IncreaseFontSize" Content="A↑" Padding="10" />
+            <Button Command="EditingCommands.DecreaseFontSize" Content="A↓" Padding="10" />
+            <Separator Margin="2,2,2,2" />
+            <Button Command="EditingCommands.AlignLeft" Content="AL" Padding="10" />
+            <Button Command="EditingCommands.AlignCenter" Content="AC" Padding="10" />
+            <Button Command="EditingCommands.AlignRight" Content="AR" Padding="10" />
+            <Button Command="EditingCommands.AlignJustify" Content="AJ" Padding="10" />
+            <Separator Margin="2,2,2,2" />
+            <Button Command="EditingCommands.IncreaseIndentation" Content="I↑" Padding="10" />
+            <Button Command="EditingCommands.DecreaseIndentation" Content="I↓" Padding="10" />
+        </ToolBar>
+        <RichTextBox x:Name="MessageRtb" Grid.Row="3" Grid.ColumnSpan="2" AcceptsTab="True">
+            <RichTextBox.Resources>
+                <Style TargetType="{x:Type Paragraph}">
+                    <Setter Property="Margin" Value="0" />
+                </Style>
+            </RichTextBox.Resources>
+        </RichTextBox>
+        <Button x:Name="BackButton" Grid.Row="4" Grid.Column="0" Content="Вернуться" Click="BackButton_Click" />
+        <Button x:Name="SendButton" Grid.Row="4" Grid.Column="1" Content="Отправить" Click="SendButton_Click" />
+    </Grid>
+</Page>

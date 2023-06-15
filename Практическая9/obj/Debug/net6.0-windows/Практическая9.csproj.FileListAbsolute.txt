@@ -1,0 +1,87 @@
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.exe
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.deps.json
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.runtimeconfig.json
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.dll
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.pdb
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\bin\Debug\net6.0-windows\ImapX.dll
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.csproj.AssemblyReference.cache
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9_MarkupCompile.cache
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9_MarkupCompile.lref
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.g.resources
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.AssemblyInfoInputs.cache
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.AssemblyInfo.cs
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.csproj.CoreCompileInputs.cache
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.csproj.CopyComplete
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.dll
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\refint\Практическая9.dll
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.pdb
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.genruntimeconfig.cache
+C:\Users\Надеев\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\ref\Практическая9.dll
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.exe
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.deps.json
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.runtimeconfig.json
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.dll
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.pdb
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\bin\Debug\net6.0-windows\ImapX.dll
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.csproj.AssemblyReference.cache
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\AuthoriziedWindow.g.cs
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9_MarkupCompile.cache
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9_MarkupCompile.lref
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\AuthoriziedWindow.baml
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.g.resources
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.AssemblyInfoInputs.cache
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.AssemblyInfo.cs
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.csproj.CoreCompileInputs.cache
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.csproj.CopyComplete
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.dll
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\refint\Практическая9.dll
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.pdb
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.genruntimeconfig.cache
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\ref\Практическая9.dll
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\MessagesPage.g.cs
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\MessagesPage.baml
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\MessageInfoPage.g.cs
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\bin\Debug\net6.0-windows\Spire.Doc.dll
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\MessageInfoPage.baml
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\SendPage.g.cs
+C:\Users\X-AROK\source\repos\Практическая9\Практическая9\obj\Debug\net6.0-windows\SendPage.baml
+D:\C# Projects\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.exe
+D:\C# Projects\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.deps.json
+D:\C# Projects\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.runtimeconfig.json
+D:\C# Projects\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.dll
+D:\C# Projects\Практическая9\Практическая9\bin\Debug\net6.0-windows\Практическая9.pdb
+D:\C# Projects\Практическая9\Практическая9\bin\Debug\net6.0-windows\ImapX.dll
+D:\C# Projects\Практическая9\Практическая9\bin\Debug\net6.0-windows\Spire.Doc.dll
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.csproj.AssemblyReference.cache
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\AuthoriziedWindow.g.cs
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\MessageInfoPage.g.cs
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\MessagesPage.g.cs
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\SendPage.g.cs
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\App.g.cs
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9_MarkupCompile.cache
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9_MarkupCompile.lref
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\AuthoriziedWindow.baml
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\MainWindow.baml
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\MessageInfoPage.baml
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\MessagesPage.baml
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\SendPage.baml
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.g.resources
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.AssemblyInfoInputs.cache
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.AssemblyInfo.cs
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.csproj.CoreCompileInputs.cache
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.csproj.CopyComplete
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.dll
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\refint\Практическая9.dll
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.pdb
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\Практическая9.genruntimeconfig.cache
+D:\C# Projects\Практическая9\Практическая9\obj\Debug\net6.0-windows\ref\Практическая9.dll
